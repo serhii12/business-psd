@@ -1,4 +1,7 @@
 # business-psd
-Project 2 for HackerYou part-time course
 
-https://serhii12.github.io/business-psd/.
+[Link](https://serhii12.github.io/business-psd/)
+
+A fully web accessible PSD design. Not responsive. It was build for Project 2 during HackerYou part-time course. 
+
+Disclaimer: I do not own the design, nor I plan to monetize it in any way.
